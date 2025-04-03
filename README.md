@@ -12,7 +12,7 @@ $ catkin_make
 
 2. Add dependies
 ```
-$ sudo apt-get install ros-noetic-serial-python
+$ sudo apt-get install ros-noetic-rosserial-python
 
 $ cd ~/catkin_ws/src
 $ git clone https://github.com/ykevin/riki_msgs.git 
